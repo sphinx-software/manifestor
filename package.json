@@ -1,5 +1,5 @@
 {
-  "name": "manifestor",
+  "name": "@sphinx-software/manifestor",
   "version": "0.0.1",
   "description": "Sphinx Manifestor",
   "bin": {

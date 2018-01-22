@@ -1,9 +1,9 @@
 const chalk   = require('chalk');
 const lodash  = require('lodash');
 
-const Manifestor           = require('./../src/Manifestor');
-const Scanner              = require('./../src/Scanner');
-const ManifestGenerator    = require('./../src/ManifestGenerator');
+const Manifestor           = require('../src/Manifestor');
+const Scanner              = require('../src/Scanner');
+const ManifestGenerator    = require('../src/ManifestGenerator');
 
 let program = require('commander');
 let cwd     = process.cwd();

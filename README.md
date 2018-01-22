@@ -1,4 +1,4 @@
-# Manifestor v0.0.1
+# Manifestor v0.1
 
 
 ## Installation

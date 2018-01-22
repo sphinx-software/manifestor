@@ -1,0 +1,21 @@
+{
+  "name": "manifestor",
+  "version": "0.0.1",
+  "description": "Sphinx Manifestor",
+  "bin": {
+    "manifestor": "./bin/manifestor.js"
+  },
+  "repository": "https://github.com/sphinx-software/manifestor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rikky <son.levuthai@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "commander": "^2.13.0",
+    "lodash": "^4.17.4",
+    "recursive-readdir": "^2.2.1"
+  }
+}

@@ -5,7 +5,7 @@ class Scanner {
 
     async scan(directory, ignores = []) {
         ignores.push(file => {
-            return path.extname(file) !== '.js'
+            return path.extname(file).match(/\.js$/);
         });
 
         return await recursive(directory, ignores);

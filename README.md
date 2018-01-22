@@ -1,10 +1,13 @@
 #Manifestor v0.0.1
+--
 
-##Install
+
+##Installation
 
 ```
 npm install -g manifestor
 ```
+
 
 ##Usage
 

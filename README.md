@@ -36,7 +36,7 @@ then run
 $ manifestor
 ```
 
-You should see the output `manifest.js` file:
+You should see the output about the `manifest.js` file:
 
 ```
 Generated manifest file at /your/project/manifest.js

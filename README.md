@@ -1,15 +1,14 @@
-#Manifestor v0.0.1
---
+# Manifestor v0.0.1
 
 
-##Installation
+## Installation
 
 ```
 npm install -g manifestor
 ```
 
 
-##Usage
+## Usage
 
 In your `package.json` file, add the field `manifestor`
 
